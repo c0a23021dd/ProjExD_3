@@ -141,7 +141,7 @@ class Bomb:
         screen.blit(self.img, self.rct)
 class Score:
     """
-    爆弾の数を表示するクラス
+    スコアを表示するクラス
     """
     def __init__(self):
         """
